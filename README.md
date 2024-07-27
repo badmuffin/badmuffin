@@ -50,11 +50,9 @@ My Other Profiles:-
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={badmuffin}&theme={monokai}
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={badmuffin}&theme={monokai}&exclude={}
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username={badmuffin}&theme={monokai}
 
- 
-## Do You Like Memes & Jokes:
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badmuffin&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=badmuffin&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=badmuffin&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=badmuffin&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=badmuffin&theme=monokai&utcOffset=8)
