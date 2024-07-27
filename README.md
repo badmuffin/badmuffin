@@ -43,35 +43,6 @@ My Other Profiles:-
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## Readme Stats
-Account age: **{{ ACCOUNT_AGE }}** years
-
-Pushed **{{ COMMITS }}** commits
-
-Opened **{{ ISSUES }}** issues
-
-Submitted **{{ PULL_REQUESTS }}** pull requests
-
-Reviewed **{{ CODE_REVIEWS }}** pull requests
-
-Received **{{ STARS }}** stars
-
-Own **{{ REPOSITORIES }}** repositories
-
-Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
-
-Top 8 most used languages across your repositories:
-
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
-
-Top 4 most used languages across your repositories:
-
-{{ LANGUAGE_TEMPLATE_START:max=4 }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -79,5 +50,11 @@ Top 4 most used languages across your repositories:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
- 
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={badmuffin}&theme={monokai}
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={badmuffin}&theme={monokai}&exclude={}
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username={badmuffin}&theme={monokai}
 
+ 
+## Do You Like Memes & Jokes:
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+![Jokes Card](https://readme-jokes.vercel.app/api)
