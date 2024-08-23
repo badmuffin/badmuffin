@@ -51,8 +51,8 @@ My Other Profiles:-
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badmuffin&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=badmuffin&theme=nightowl)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=badmuffin&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badmuffin&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=badmuffin&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=badmuffin&theme=swift)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=badmuffin&theme=swift)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=badmuffin&theme=monokai&utcOffset=8)
