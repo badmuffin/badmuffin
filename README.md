@@ -52,7 +52,7 @@ My Other Profiles:-
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badmuffin&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=badmuffin&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=badmuffin&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=badmuffin&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=badmuffin&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=badmuffin&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=badmuffin&theme=swift)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=badmuffin&theme=monokai&utcOffset=8)
