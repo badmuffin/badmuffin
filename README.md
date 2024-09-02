@@ -1,10 +1,11 @@
 # Hi folks 👋
-## my name is Abhijeet Sharma, a Computer Science Undergraduate
+### My name is Abhijeet Sharma, a Computer Science Undergraduate
 
-- I'm also an esteemed member of the Linux cult. ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-- I’m interested in the field of Web Development, GameDev and UI/UX.
-- I’m currently learning fullstack development and on my free time, I use Godot.
-- I'm also a Google certified UI/UX designer specialized in creating user-centric designs.
+- I'm also an esteemed member of the Linux cult & FOSS.
+- I’m interested in the field of Web Development and UI/UX but I also love exploring various domains.
+- I’m currently learning fullstack development and on my free time, I use Godot and make simple game mechanics.
+- I'm also a Google certified UI/UX designer specialized in creating user-centric and minimal designs.
+- I am currently working as a web developer intern at an early-stage startup.
 
 My Other Profiles:-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-sharma-994064227/)
@@ -44,11 +45,8 @@ My Other Profiles:-
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badmuffin&theme=swift)
