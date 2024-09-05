@@ -1,7 +1,7 @@
 # Hi folks 👋
 ### My name is Abhijeet Sharma, a Computer Science Undergraduate
 
-- I'm also an esteemed member of the Linux cult & FOSS.
+- I'm also an esteemed member of the Linux cult & FOSS enthusiast.
 - I’m interested in the field of Web Development and UI/UX but I also love exploring various domains.
 - I’m currently learning fullstack development and on my free time, I use Godot and make simple game mechanics.
 - I'm also a Google certified UI/UX designer specialized in creating user-centric and minimal designs.
