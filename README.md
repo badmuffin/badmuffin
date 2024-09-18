@@ -7,7 +7,7 @@
 - I'm also a Google certified UI/UX designer specialized in creating user-centric and minimal designs.
 - I am currently working as a web developer intern at an early-stage startup.
 
-My Other Profiles:-
+My Other Profiles:- <br/>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-sharma-994064227/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/abbhidot)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/badmuffin/)
