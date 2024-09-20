@@ -4,10 +4,13 @@
 - I'm also an esteemed member of the Linux cult & FOSS enthusiast.
 - I’m interested in the field of Web Development and UI/UX but I also love exploring various domains.
 - I’m currently learning fullstack development and on my free time, I use Godot and make simple game mechanics.
-- I'm also a Google certified UI/UX designer specialized in creating user-centric and minimal designs.
+- I'm also a Google certified UI/UX designer specialized in creating user-centric and minimal UIs.
 - I am currently working as a web developer intern at an early-stage startup.
 
-My Other Profiles:- <br/>
+## Leetcode Stats:- 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=badmuffin&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+## My Other Profiles:-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-sharma-994064227/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/abbhidot)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/badmuffin/)
