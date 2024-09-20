@@ -8,7 +8,9 @@
 - I am currently working as a web developer intern at an early-stage startup.
 
 ## Leetcode Stats:- 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=badmuffin&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![badmuffin's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=badmuffin&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/badmuffin)
+
 
 ## My Other Profiles:-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-sharma-994064227/)
