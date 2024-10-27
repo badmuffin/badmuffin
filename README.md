@@ -50,8 +50,6 @@
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badmuffin" alt="badmuffin" /></a> </p>
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=badmuffin&theme=swift)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=badmuffin&theme=swift)
