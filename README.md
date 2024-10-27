@@ -15,6 +15,13 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@badmuffin)
 [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/175489428-abhijeet)
 
+<h2 align="left">Leetcode Info<h2>  
+<p align="left">
+  <a href="https://leetcode.com/badmuffin06/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/badmuffin?theme=unicorn)
+
 ## My Skillsets:-
 ### Programming Languages:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -49,10 +56,12 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
+<div align=left>
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=badmuffin&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=308 src="https://github-readme-stats.vercel.app/api/top-langs/?username=badmuffin&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=badmuffin&theme=swift)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=badmuffin&theme=swift)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=badmuffin&theme=swift)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=badmuffin&theme=swift&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badmuffin&theme=swift)
