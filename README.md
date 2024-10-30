@@ -2,8 +2,8 @@
 ### My name is Abhijeet Sharma, a Computer Science Undergraduate
 
 - I'm also an esteemed member of the Linux cult & FOSS enthusiast.
-- I’m interested in the field of Web Development and UI/UX but I also love exploring various other domains.
-- I’m currently learning fullstack development and on my free time, I use Godot and make simple game mechanics.
+- I'm a contributor @GSSoC2024.
+- I’m currently learning fullstack development.
 - I'm also a Google certified UI/UX designer specialized in crafting user-centric and minimal UIs.
 - Previously worked as a Web Development Intern at an early-stage startup
 
@@ -13,6 +13,23 @@
 </p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/badmuffin?theme=unicorn)
+
+<details>	
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
+  </a>
+</div>
+</details>
 
 ### Connect with Me:-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-sharma-994064227/)
