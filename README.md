@@ -1,11 +1,11 @@
 # Hi folks 👋
 ### My name is Abhijeet Sharma, a Computer Science Undergraduate
 
+- I'm a Software Developer Intern working at a startup.
 - I'm also an esteemed member of the Linux cult & FOSS enthusiast.
 - I'm a contributor @GSSoC2024.
 - I’m currently learning fullstack development.
 - I'm also a Google certified UI/UX designer specialized in crafting user-centric and minimal UIs.
-- Previously worked as a Web Development Intern at an early-stage startup
 
 <h2 align="left">Leetcode Info<h2>  
 <p align="left">
@@ -36,9 +36,19 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@badmuffin)
 [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/175489428-abhijeet)
 
+## Skillset
+
+| Category               | Badges                                                                                                                                                     |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Frameworks/Libraries** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) |
+| **Tools**              | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294171?style=for-the-badge&logo=fedora&logoColor=white) |
+
+
 <div align=left>
   <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=badmuffin&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <img width=400 src="https://github-readme-stats.vercel.app/api?username=badmuffin&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=700 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badmuffin&theme=swift" alt="profile-summary-card" />
 </div>
+
 
