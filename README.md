@@ -3,9 +3,8 @@
 
 - I'm a Software Developer Intern working at a startup.
 - I'm also an esteemed member of the Linux cult & FOSS enthusiast.
-- I'm a contributor @GSSoC2024.
-- I’m currently learning fullstack development.
-- I'm also a Google certified UI/UX designer specialized in crafting user-centric and minimal UIs.
+- I’m currently learning fullstack development and grinding leetcode on my spare time.
+- I'm also a Google Certified UI/UX designer specialized in crafting user-centric and minimal UIs.
 
 ### Connect with Me:-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-sharma-994064227/)
@@ -22,20 +21,6 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/badmuffin?theme=unicorn)
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=badmuffin">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  </a>
-</div>
-</details>
-
 ## Skillset
 
 | Category               | Badges                                                                                                                                                     |
@@ -47,9 +32,11 @@
 
 
 <div align=left>
-  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=badmuffin&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=badmuffin&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=700 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badmuffin&theme=swift" alt="profile-summary-card" />
+  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=badmuffin&hide=HTML&langs_count=8&layout=compact&theme=vue&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=badmuffin&show_icons=true&theme=vue&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=badmuffin&theme=vue" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=badmuffin&theme=vue" />
+  <img width=700 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badmuffin&theme=vue" alt="profile-summary-card" />
 </div>
 
 
