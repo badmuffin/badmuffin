@@ -32,11 +32,15 @@
 
 
 <div align=left>
-  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=badmuffin&hide=HTML&langs_count=8&layout=compact&theme=vue&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=badmuffin&hide=HTML&langs_count=8&layout=compact&theme=vue&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+<div>
   <img width=400 src="https://github-readme-stats.vercel.app/api?username=badmuffin&show_icons=true&theme=vue&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
+<div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=badmuffin&theme=vue" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=badmuffin&theme=vue" />
-  <img width=700 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badmuffin&theme=vue" alt="profile-summary-card" />
+<!--   <img width=700 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badmuffin&theme=vue" alt="profile-summary-card" /> -->
 </div>
 
 
