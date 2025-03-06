@@ -19,7 +19,7 @@
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=badmuffin&show_icons=true&theme=vue&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/badmuffin?theme=unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/badmuffin?theme=dracula)
 
 <!--
 <h2 align="left">Leetcode Info<h2>  
