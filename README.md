@@ -15,15 +15,6 @@
 [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/175489428-abhijeet)
 
 <div align=left>
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=badmuffin&hide=HTML&langs_count=8&layout=compact&theme=vue&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=badmuffin&show_icons=true&theme=vue&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img height=240 src="https://github-readme-stats.vercel.app/api/top-langs/?username=badmuffin&hide=HTML&langs_count=10&layout=compact&theme=vue&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img height=240 src="https://leetcard.jacoblin.cool/badmuffin?theme=dracula" />
 </div>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/badmuffin?theme=dracula)
-
-<!--
-<h2 align="left">Leetcode Info<h2>  
-<p align="left">
-  <a href="https://leetcode.com/badmuffin/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
-</p>
--->
