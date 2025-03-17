@@ -1,10 +1,10 @@
 # Hi folks 👋
 ### My name is Abhijeet Sharma, a Computer Science Undergraduate
-bool containsNearbyDuplicate(vector<int>& nums, int k) {
+
 - I'm a Software Developer Intern working at a startup.
 - I'm also an esteemed member of the Linux cult & FOSS enthusiast.
 - I’m currently learning fullstack development and grinding leetcode on my spare time.
-- I'm also a Google Certified UI/UX designer specialized in crafting user-centric and minimal UIs.
+- I'm also a Google Certified UI/UX designer.
 
 ### Connect with Me:-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-sharma-994064227/)
