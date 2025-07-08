@@ -1,9 +1,9 @@
 # Hi folks 👋
 ### My name is Abhijeet Sharma, a Computer Science Undergraduate
 
-- I'm a Software Developer Intern working at a startup.
+- I'm a Software Developer working at a startup.
 - I'm also an esteemed member of the Linux cult & FOSS enthusiast.
-- I’m currently learning fullstack development and grinding leetcode on my spare time.
+- I’m currently learning backend development and grinding leetcode on my spare time.
 - I'm also a Google Certified UI/UX designer.
 
 ### Connect with Me:-
