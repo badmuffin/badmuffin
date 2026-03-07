@@ -1,3 +1,10 @@
+<div>
+  <img 
+    style="width:100%; height:100%; object-fit: contain;" 
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+  />
+</div>
+
 Hey folks! I'm **Abhijeet Sharma**, a Computer Science graduate.  
 I'm a **Software Developer** working at a tech startup and a **Google Certified UI/UX Designer**.
 
@@ -13,23 +20,26 @@ I'm a **Software Developer** working at a tech startup and a **Google Certified 
 
 ### 💻 Tech Stack
 
-- **Programming Languages:** TypeScript, C++, Go, Python, C#, Gdscript
-- **Frameworks & Libraries:** React, Next.js, React Native, Expo, Node.js, Express, .NET, Tailwind CSS, Material UI 
+- **Programming Languages:** TypeScript, C++, Go, Python, Gdscript
+- **Frameworks & Libraries:** React, Next.js, React Native, Expo, Node.js, Express, Tailwind CSS, Material UI 
 - **Databases:** PostgreSQL, MongoDB
 - **UI/UX:** Wireframing, Mockups, Prototyping, Research & Analysis, Usability Studies, User Persona Design  
-- **Software & Utilities:** VSCode, Git, Linux, Vim, Figma, Godot, obsidian
-
-### 🌱 Currently Learning
-- System Design
-- Leetcode
-- game dev
+- **Software & Utilities:** VSCode, Git, Linux, Vim, Figma, Godot, Obsidian, Bashscript
 
 ### 🤝 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/abhijeet-sharma-994064227/)  
+- [LinkedIn](https://www.linkedin.com/in/abhijeet-sharma-994064227/)
+- [Leetcode](https://leetcode.com/u/badmuffin/)
 - [Twitter / X](https://x.com/badmuffin06)
 - [Medium](https://medium.com/@badmuffin)
 - [Behance](https://www.behance.net/abhijeetsharma17)
 
-<div align="left">
-  <img height="200" src="https://leetcard.jacoblin.cool/badmuffin?theme=dracula" />
+<!-- <div align="left">
+  <img src="https://leetcard.jacoblin.cool/badmuffin?theme=dracula" />
+</div> -->
+
+<div>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=badmuffin&theme=github" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=badmuffin&theme=github" />
+  <!-- <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=badmuffin&theme=github" /> -->
 </div>
+
