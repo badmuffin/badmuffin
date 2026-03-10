@@ -19,11 +19,11 @@ Hey folks! I'm **Abhijeet Sharma**, a Computer Science graduate and a **Software
 
 ### 💻 Tech Stack
 
-- **Programming Languages:** TypeScript, C++, Go, Python, Gdscript
-- **Frameworks & Libraries:** React, Next.js, React Native, Expo, Node.js, Express, Tailwind CSS, Material UI 
-- **Databases:** PostgreSQL, MongoDB
-- **UI/UX:** Wireframing, Mockups, Prototyping, Research & Analysis, Usability Studies, User Persona Design  
-- **Software & Utilities:** VSCode, Git, Linux, Vim, Figma, Godot, Obsidian, Bashscript
+- **Programming Languages:** `TypeScript`, `C++`, `Go`, `Python`, `Gdscript`
+- **Frameworks & Libraries:** `React`, `Next.js`, `React Native`, `Expo`, `Node.js`, `Express`, `Tailwind CSS`
+- **Databases:** `PostgreSQL`, `MongoDB`
+- **UI/UX:** `Wireframing`, `Mockups`, `Prototyping`, `Research & Analysis`, `Usability Studies`, `User Persona Design`  
+- **Software & Utilities:** `VSCode`, `Git`, `Linux`, `Vim`, `Figma`, `Godot`, `Obsidian`
 
 ### 🤝 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/abhijeet-sharma-994064227/)
