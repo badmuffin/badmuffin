@@ -25,12 +25,6 @@ Hey folks! I'm **Abhijeet Sharma**, a Computer Science graduate and a **Software
 - **UI/UX:** `Wireframing`, `Mockups`, `Prototyping`, `Research & Analysis`, `Usability Studies`, `User Persona Design`  
 - **Software & Utilities:** `VSCode`, `Git`, `Linux`, `Vim`, `Figma`, `Godot`, `Obsidian`
 
-### 🤝 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/abhijeet-sharma-994064227/)
-- [Leetcode](https://leetcode.com/u/badmuffin/)
-- [Twitter/X](https://x.com/badmuffin06)
-- [Medium](https://medium.com/@badmuffin)
-- [Behance](https://www.behance.net/abhijeetsharma17)
 
 <div>
   <img height="180" src="https://leetcard.jacoblin.cool/badmuffin?theme=dracula" />
