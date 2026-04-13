@@ -28,17 +28,14 @@ Hey folks! I'm **Abhijeet Sharma**, a Computer Science graduate and a **Software
 ### 🤝 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/abhijeet-sharma-994064227/)
 - [Leetcode](https://leetcode.com/u/badmuffin/)
-- [Twitter / X](https://x.com/badmuffin06)
+- [Twitter/X](https://x.com/badmuffin06)
 - [Medium](https://medium.com/@badmuffin)
 - [Behance](https://www.behance.net/abhijeetsharma17)
 
-<!-- <div align="left">
-  <img src="https://leetcard.jacoblin.cool/badmuffin?theme=dracula" />
-</div> -->
-
 <div>
+  <img height="180" src="https://leetcard.jacoblin.cool/badmuffin?theme=dracula" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=badmuffin&theme=github" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=badmuffin&theme=github" />
+  <!-- <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=badmuffin&theme=github" /> -->
   <!-- <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=badmuffin&theme=github" /> -->
 </div>
 
