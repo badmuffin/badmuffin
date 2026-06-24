@@ -12,4 +12,4 @@ Hey folks!
 - [Build Neovim from Source](https://medium.com/@badmuffin/how-to-compile-neovim-latest-in-debian-12-847e77896b4e) - A step-by-step guide to compiling the latest Neovim from source on Linux.
 - [Dangling Else Ambiguity](https://medium.com/@badmuffin/the-dangling-else-ambiguity-770850289691) - A short explanation of the classic syntactic ambiguity problem in programming language design.
 
-<img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badmuffin&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badmuffin&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
