@@ -1,7 +1,7 @@
 Hey folks! 
 - I'm Abhijeet Sharma, a Computer Science graduate and a Software Developer working at a tech startup.
 - I build cross-platform mobile applications with React Native and have experience across the full stack.
-- Beyond application development, I'm interested in systems programming, graphics and game development, aiml, data structures & algorithms, and exploring new areas of computer science.
+- Beyond application development, I enjoy exploring systems programming, game development, AI/ML and other areas of computer science that catch my interest.
 
 #### 🏅Some Achievements
 - [Google UX Design](https://www.coursera.org/account/accomplishments/specialization/CMTD4FWLZC3L?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n)
